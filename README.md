@@ -1,2 +1,1 @@
-maven-examples
-==============
+# maven-examples
