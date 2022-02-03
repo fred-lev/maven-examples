@@ -6,4 +6,5 @@ I mostly used the application code here to get familiar with running Jacoco in J
 
 SonarQube is also used to scan the application code and push reports to my org at [sonarcloud.io](https://sonarcloud.io/).
 
-![image](https://user-images.githubusercontent.com/42792052/151946678-ee3dbd9d-f3bf-446e-8e91-7ee84fb868b1.png)
+![image](https://user-images.githubusercontent.com/42792052/152298905-299a34c3-592a-44b8-af7f-4712bd92775e.png)
+
